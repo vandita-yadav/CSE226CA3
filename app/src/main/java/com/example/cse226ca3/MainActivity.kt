@@ -58,7 +58,7 @@ fun RideStatusScreen() {
 
             currentStatusText = assign
             isAssigned = true
-            delay(2000)
+            delay(1000)
 
             if (isAssigned) {
                 currentStatusText = arrive
